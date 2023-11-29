@@ -1,0 +1,20 @@
+header{
+    background-color: black;
+    color: blue;
+    text-align: left;
+}
+main{
+    background-color: black;
+    color: blue;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: blue;
+    text-align: right;
+}
+header,main,footer{
+    padding: 15pt;
+    margin: 20pt;
+    border: 5px solid grey
+}
